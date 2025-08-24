@@ -1,6 +1,8 @@
-Emotions from [`Feelings Wheel`](https://feelingswheel.com).
+# `emotions-rs`
 
-Example usage:
+Emotions from [`Feelings Wheel`](https://feelingswheel.com) available as a rust crate.
+
+## Example usage
 
 ```rust
 #[cfg(test)]
