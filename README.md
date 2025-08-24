@@ -1,6 +1,8 @@
 # `emotions-rs`
 
-Emotions from [`Feelings Wheel`](https://feelingswheel.com) available as a rust crate.
+Emotions from [`Emotion Wheel`](https://observablehq.com/@mbostock/emotion-wheel) available as a rust crate.
+
+>This is a recreation of Geoffrey Roberts’s Emotion Wheel using D3’s partition layout. Robert’s 2015 work appears to be based on a vocabulary wheel by Kaitlin Robbs from 2014, which in turn appears to be based on The Feeling Wheel published by Gloria Willcox in 1982.
 
 ## Example usage
 
