@@ -1,0 +1,1 @@
+Emotions from [`Feelings Wheel`](https://feelingswheel.com).
